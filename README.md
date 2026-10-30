@@ -1,5 +1,6 @@
 
 # AI Knowledge & Decision Assistant
+[Live Link](https://ai-knowledge-decision-assistant-fro.vercel.app/)
 
 A multi-tenant SaaS MVP that enables organizations to upload PDF documents, create a public AI assistant, and allow visitors to ask questions through a shareable URL or embedded widget.
 
